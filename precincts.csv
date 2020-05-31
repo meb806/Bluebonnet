@@ -1,0 +1,42 @@
+﻿prec_id,Precinct,Voting Location,Address,NC House,School District,US Congress,Organized,Chair,Vice-Chair
+1,BALLS CREEK,FRIENDSHIP METHODIST CHURCH ,"2900 S NC 16 Hwy, Newton ",89,County,10,No ,,
+2,BANOAK,CORINTH BAPTIST CHURCH ,"7929 West NC 10 Hwy, Vale ",89,County,10,Yes,Gene Darwin Biggerstaff,Rita Jarrett Lutz
+3,BLACKBURN,BLACKBURN BAPTIST CHURCH ,"5105 West NC 10 Hwy, Hickory ",89,County,10,No ,,
+4,BROOKFORD,BROOKFORD TOWN HALL ,"1700 S Center St, Hickory  ",89,Hickory,10,No ,,
+5,CATAWBA,CATAWBA BAPTIST CHURCH ,"102 1st St SW, Catawba  ",89,County,10,No ,,
+6,CLAREMONT,CLAREMONT CITY HALL ,"3288 E Main St, Claremont  ",89,County/NewCon,10,No ,,
+7,CONOVER WEST,FAITH EVANGELICAL LUTHERAN ,"439 7th St Pl SW, Conover ",96,County/NewCon,10,No ,,
+8,CONOVER EAST,CONOVER STATION  ,"403 Conover Station SE, Conover  ",96,County/NewCon,10,No ,,
+9,EAST MAIDEN,EAST MAIDEN BAPTIST CHURCH,"1400 E Maiden Rd, Maiden  ",89,County,10,No ,,
+10,EAST NEWTON,NEWTON RECREATION CENTER ,"23 S Brady Ave, Newton  ",89,New-Con,10,No ,,
+11,COLLEGE PARK,ST ANDREW'S LUTHERAN CHURCH,"629 8th St NE, Hickory ",96,Hickory,10,No ,,
+12,KENWORTH,CHRIST LUTHERAN CHURCH ,"324 2nd Ave SE, Hickory  ",89,Hickory,10,No ,,
+13,GREENMONT,WESTMONT SR. CITIZENS CENTER,"1316 Main Ave Dr NW, Hickory ",96,Hickory,10,No ,,
+14,OAKWOOD,HOLY TRINITY LUTHERAN CHURCH,"547 6th St NW, Hickory ",96,Hickory,10,Yes,David W. Turman,Sarah Watkins Huffman
+15,RIDGEVIEW,BROWN-PENN CENTER  ,"735 3rd  St SW, Hickory ",96,Hickory,10,Yes,Margaret Ann Pope,Linda Hopper Shade
+16,HIGHLAND,HIGHLAND RECREATION CENTER ,"1451 8th St Dr NE, Hickory",96,County/Hickory,10,Yes,Shannon Auer,Richard Eric Wagner
+17,LONG VIEW N,BETHEL METHODIST CHURCH ,"80 28th St NW, Hickory",96,Hickory,10,No ,,
+18,Not in USE,,      ,,,10,No ,,
+19,LONG VIEW S,CHRIST UNITED BAPTIST CHURCH,"1131 33rd St SW, Hickory ",96,Hickory,10,No ,,
+20,MAIDEN,MAIDEN COMMUNITY CENTER ,"207  E Klutz St, Maiden ",89,County,10,No ,,
+21,MONOGRAM,OLIVET BAPTIST CHURCH ,"7893  Monbo Rd, Catawba  ",89,County,10,No ,,
+22,MT OLIVE,MT. OLIVE LUTHERAN CHURCH,"2103 Mt Olive Church Rd, Newton ",89,County/NewCon,10,No ,,
+23,MTN VIEW 1,BETHEL UNITED CHURCH OF CHRIST,"4547 Bethel Church Rd, Hickory ",96,County,10,Yes,Delene Huggins,???
+24,MTN VIEW 2,MOUNTAIN VIEW FIRE HEADQUARTERS,"3571 S NC 127 Hwy, Hickory 127",96,County,10,Yes,Julie Helen Cline,Daryll Eugene Setzer
+25,NORTH NEWTON,ABERNETHY MEMORIAL UMC ,"111 W 13th St, Newton ",89,County/NewCon,10,No ,,
+26,OAKLAND HEIGHTS,RESURRECTION INTERNATIONAL CHURCH ,"2010 Clement Blvd NW, Hickory ",96,Hickory,10,Yes,John Steven Walker,Jane Mandle
+27,OXFORD,BETHEL LUTHERAN CHURCH ,"5759 Bolick Rd, Claremont  ",89,County,10,Yes,Carole Setzer Hovland,Nancy Judd Angel
+28,ST STEPHENS 1,CHRIST CHURCH - NORTHSIDE,"2350 Springs Rd, Hickory",96,County,10,No ,,
+29,ST STEPHENS 2,ST. LUKE’S LUTHERAN CHURCH,"3916 Springs Rd, Conover",96,County,5 & 10,No ,,
+30,SANDY RIDGE,ST. STEPHENS LUTHERAN CHURCH,"ELCA 2259 12th Ave NE,",96,County,10,Yes,Sherbia J. Jones,Jacqueline Harris
+31,SHERRILLS FORD,HOPEWELL UNITED METHODIST CHURCH,"2211 Hopewell Ch Rd, Sher. Ford",89,County,10,Yes,Joan E Gardner,Lisa Marie Koukal Yakovenko
+32,SOUTH NEWTON,GRACE REFORMED UNITED CHURCH,"117 East ‘J’ St, Newton",89,County/NewCon,10,Yes,Gregory Sherrill Cranford,Callie Ellen Inscoe
+33,SPRINGS,MT. ZION LUTHERAN CHURCH,"4420 County Home Rd, Conover ",96,County/NewCon,10,Yes,Dacia Cress,Marshall Montgomery
+34,STARTOWN,ST. PAUL'S REFORMED CHURCH,"3562 Startown Rd, Newton  ",89,County,10,No ,Audrey F. Helms,"Roy Rex Watts, Jr"
+35,SWEETWATER,NEW JERUSALEM LUTHERAN CHURCH,"2120 Startown Rd, Hickory  ",89,County/Hickory,10,Yes,Elizabeth Scheld Glynn,Lynn McCloud Dorfman
+36,VIEWMONT 1,ST. LUKES UNITED METHODIST CHURCH,"52 16th Ave NW, Hickory",96,Hickory,10,Yes,Lynn Beecher Spees,Thelma Epps Eley
+37,VIEWMONT 2,MT. OLIVE LUTHERAN CHURCH,"2780 N Center St, Hickory",96,County/Hickory,10,Yes,Marguerite M. Cook,Walter J. Vandett
+38,FALLING CREEK,LAKEVIEW BAPTIST CHURCH ,"4080 N Center St, Hickory ",96,County/Hickory,5,Yes,,
+39,NORTHWEST,NEILL CLARK RECREATION CENTER,"3404 6th St Dr NW, Hickory",96,Hickory,5,No ,,
+40,WEST NEWTON,CATAWBA COUNTY MAIN LIBRARY,"115 West ‘C’ St, Newton",89,County/NewCon,10,No ,,
+41,LAKE NORMAN,REHOBETH UNITED METHODIST CHURCH,"9297 Sherrills Ford Rd, Terrell",89,County,10,No ,,
